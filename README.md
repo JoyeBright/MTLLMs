@@ -5,3 +5,5 @@ A list of papers related to machine translation and LLMs.
 LLMs Are Few-Shot In-Context Low-Resource Language Learners:
 https://aclanthology.org/2024.naacl-long.24v2.pdf
 
+Translate-and-Revise: Boosting Large Language Models for Constrained Translation:
+https://aclanthology.org/2024.ccl-1.82.pdf
